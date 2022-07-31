@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3&height=300&section=header&text=SU%10JI%20PARK&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=SU%20JI&fontSize=90&animation=twinkling)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&theme=vue)](https://github.com/lzns960/github-readme-stats?)
 
@@ -30,7 +30,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzns960&count_bg=%23BABABA&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=footer)
 
 
 <!--
