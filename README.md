@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3&height=300&section=header&text=lz%20ns%20960&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3&height=300&section=header&text=SU%10JI%20PARK&fontSize=90&animation=twinkling)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&theme=vue)](https://github.com/lzns960/github-readme-stats?)
 
