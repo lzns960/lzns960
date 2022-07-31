@@ -4,8 +4,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3&height=300&section=header&text=lz%20ns%20960&fontSize=90&animation=twinkling)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&theme=vue)](https://github.com/lzns960/github-readme-stats?)
 
-<h3 align="center"> 💖 Me 💖  </h3>
+
+<h3 align="center"> ✨ Me ✨   </h3>
 <p align="center">
   <a href="https://velog.io/@lzns960"><img src="https://img.shields.io/badge/lzns960.%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lzns960"/></a>&nbsp
   <a href="https://www.instagram.com/1z_ns/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1z_ns/"/></a>&nbsp
@@ -13,12 +15,6 @@
 </p>
 
 <br>
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&theme=vue)](https://github.com/lzns960/github-readme-stats?)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzns960&layout=compact)](https://github.com/lzns960)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>  
 <p align="center"> Techs that I've used at least once </p>
@@ -54,6 +50,8 @@ Here are some ideas to get you started:
 -->
 
   <!-- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzns960&layout=compact)](https://github.com/lzns960)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lzns960&repo=Korea-Digital-Training&show_owner)](https://github.com/lzns960/Korea-Digital-Training)
 
