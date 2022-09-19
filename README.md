@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=header&fontSize=50&animation=twinkling)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&theme=vue)](https://github.com/lzns960/github-readme-stats?)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzns960&show_icons=true&icon_color=a2e8bf&title_color=a2e8bf)](https://github.com/lzns960/github-readme-stats?)
 
 <h3 align="center"> ✨ Me ✨ </h3>
 <p align="center">
